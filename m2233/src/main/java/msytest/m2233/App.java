@@ -20,6 +20,6 @@ public class App
     	System.out.println( "a*b="+mull );
     	System.out.println( "a/b："+div );
     	System.out.println( "a的平方是："+square );
-    	
+    	System.out.println( "a的立方是："+square );
     }
 }

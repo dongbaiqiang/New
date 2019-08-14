@@ -18,4 +18,9 @@ public class Sum {
 	  
 	  return a*a;
   }
+ int sqr3(int a) {
+	  
+	  return a*a*a;
+  }
+  
 }
