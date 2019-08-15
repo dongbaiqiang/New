@@ -14,4 +14,13 @@ public class Sum {
   int div(int a,int b) { 
 		 return a/b; 
   }
+  int sqr(int a) {
+	  
+	  return a*a;
+  }
+ int sqr3(int a) {
+	  
+	  return a*a*a;
+  }
+  
 }
